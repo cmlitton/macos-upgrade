@@ -1,4 +1,4 @@
-https://github.com/kc9wwh/macOSUpgrade
+
 
 
 # macOS Self Service Upgrade Process
